@@ -16,7 +16,7 @@ You will:
 
 - `main`: Original story starter
 - `hero-path`: _[Describe your changes here]_
-- `villain-path`: _[Describe your changes here]_
+- `villain-path`: The villian slays the squirrel, then decides to start a squirrel fur selling business because they're evil
 
 ## Final Checklist
 
