@@ -15,6 +15,8 @@ def left_path():
 
 def right_path():
     print("You walk right and encounter a talking squirrel who challenges you to a duel.")
+    print("You decide to slay the squirrel, but after you defeat it you sell its fur for money, and you start becoming greedy")
+    print("You like the money you made so you start a business where you hunt innocent squirrels and sell their fur")
 
 def center_path():
     print("You have chosen the center path")
